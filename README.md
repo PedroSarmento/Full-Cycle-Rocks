@@ -1,3 +1,3 @@
 # Full-Cycle-Rocks
 
-pedrohpsarmento/fullcycle
+Docker hub image: pedrohpsarmento/fullcycle
